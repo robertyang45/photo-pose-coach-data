@@ -1,0 +1,130 @@
+{
+  "repo": "photo-pose-coach-data",
+  "description": "photo-pose-coach 技能的线上共享知识库与参考图库。本文件由技能运行时通过 WebFetch 读取，供所有安装了该技能的用户共享最新网红拍照套路与示范照。",
+  "base_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main",
+  "gallery_base_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery",
+  "kb_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/kb/trending-pose-kb.md",
+  "updated": "2026-09-29",
+  "items": [
+    {
+      "file": "2026-09-29_seaside-cliff_standing-45deg_pose-1.png",
+      "scene": "海边悬崖旅游（seaside-cliff）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "45° 站立侧身（撩发 / 看远方）",
+      "problem": "站太正像罚站、双下巴、瞪镜头",
+      "plan": "45° 侧身、重心后脚、一手撩发、下巴前伸、看向远方",
+      "subject": "亚洲男性",
+      "cost_note": "该批 2 张约 10–20 积分",
+      "recommended": false,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_seaside-cliff_standing-45deg_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_seaside-cliff_lookback-influencer_pose-1.png",
+      "scene": "海边悬崖旅游（seaside-cliff）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "回眸杀网红风（前脚点地 / 回头捂嘴笑）",
+      "problem": "正脸双肩齐平、表情僵硬",
+      "plan": "背身回头、前脚点地显腿长、金色逆光、捂嘴笑",
+      "subject": "亚洲男性",
+      "cost_note": "该批 2 张约 10–20 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_seaside-cliff_lookback-influencer_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_cafe-street_leaning-wall_pose-1.png",
+      "scene": "城市街拍咖啡馆（cafe-street）",
+      "scene_category": "B 城市街拍",
+      "pose": "倚墙拿咖啡（插兜 / 双肩不平）",
+      "problem": "手没处放、正经站军姿",
+      "plan": "倚墙给支撑点、一手插兜一手拿咖啡、双肩一高一低、侧脸微笑",
+      "subject": "亚洲男性",
+      "cost_note": "该批 1 张约 5–10 积分",
+      "recommended": false,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_cafe-street_leaning-wall_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_bedroom-window_pure-girl-pouting_pose-1.png",
+      "scene": "居家纯欲风（bedroom-window）",
+      "scene_category": "C 室内人像",
+      "pose": "纯欲趴床嘟嘴（撑肘捧脸 / 无辜眼神）",
+      "problem": "居家呆板、无氛围",
+      "plan": "窗边趴床撑肘、双手捧脸、嘟嘴无辜眼神、柔侧光",
+      "subject": "亚洲女性",
+      "cost_note": "该批 1 张约 5–10 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_bedroom-window_pure-girl-pouting_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_padar-island_seated-triangle_pose-1.png",
+      "scene": "Padar 岛四湾观景台（推断版）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "三角形坐姿升级版",
+      "problem": "坐姿窝成一团、下半身堆叠、缺线条",
+      "plan": "侧身 45°、一屈一伸脚尖绷直、手撑岩石形成三角空隙",
+      "subject": "亚洲女性 / 浅粉长裙",
+      "cost_note": "该轮 3 张约 15–30 积分",
+      "recommended": false,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_padar-island_seated-triangle_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_padar-island_walking-lookback_pose-1.png",
+      "scene": "Padar 岛四湾观景台（推断版）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "走路回眸杀",
+      "problem": "定住摆拍不自然",
+      "plan": "走动中回头笑、一手提裙摆、连拍抓裙摆发丝",
+      "subject": "亚洲女性 / 浅粉长裙",
+      "cost_note": "该轮 3 张约 15–30 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_padar-island_walking-lookback_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_padar-island_back-view-atmospheric_pose-1.png",
+      "scene": "Padar 岛四湾观景台（推断版）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "背影氛围感",
+      "problem": "纯看镜头零故事感",
+      "plan": "背对海湾、头微转露侧脸、双臂展开或拉裙摆、逆光发丝光",
+      "subject": "亚洲女性 / 浅粉长裙",
+      "cost_note": "该轮 3 张约 15–30 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_padar-island_back-view-atmospheric_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_padar-island_v2_seated-triangle_pose-1.png",
+      "scene": "Padar 岛四湾观景台（精准复刻版）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "三角形坐姿升级版（精准）",
+      "problem": "坐姿窝、腿堆叠显厚重、手臂无支撑、裙摆被压",
+      "plan": "坐岩石前 1/3、侧身 45°、一屈一伸脚尖绷直、手撑岩石、看远方",
+      "subject": "亚洲女性 / 浅粉长裙",
+      "cost_note": "该轮 3 张约 15–30 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_padar-island_v2_seated-triangle_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_padar-island_v2_walking-lookback_pose-1.png",
+      "scene": "Padar 岛四湾观景台（精准复刻版）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "走路回眸杀（精准）",
+      "problem": "定住摆拍、动态感不足",
+      "plan": "沿山脊走、回头笑、提裙摆、连拍挑最自然帧",
+      "subject": "亚洲女性 / 浅粉长裙",
+      "cost_note": "该轮 3 张约 15–30 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_padar-island_v2_walking-lookback_pose-1.png"
+    },
+    {
+      "file": "2026-09-29_padar-island_v2_back-view-atmospheric_pose-1.png",
+      "scene": "Padar 岛四湾观景台（精准复刻版）",
+      "scene_category": "A 旅游自然风景",
+      "pose": "背影氛围感（精准）",
+      "problem": "社恐看镜头尴尬、缺氛围",
+      "plan": "背对镜头面向海湾、头微转 15–20°、双臂展开、闭眼享受风",
+      "subject": "亚洲女性 / 浅粉长裙",
+      "cost_note": "该轮 3 张约 15–30 积分",
+      "recommended": true,
+      "image_url": "https://raw.githubusercontent.com/robertyang45/photo-pose-coach-data/main/gallery/2026-09-29_padar-island_v2_back-view-atmospheric_pose-1.png"
+    }
+  ]
+}
