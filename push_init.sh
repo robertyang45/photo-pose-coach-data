@@ -36,7 +36,7 @@ for f in gallery/index.json README.md; do
     echo "⚠️ 未找到 $f，跳过占位符替换"
   fi
 done
-SKILL_MD="C:/Users/robert/.workbuddy/skills/photo-pose-coach/SKILL.md"
+SKILL_MD="C:/Users/robert/.workbuddy/skills/pose-master/SKILL.md"
 if [ -f "$SKILL_MD" ]; then
   sed -i "s/YOUR_GITHUB_USERNAME/$USER/g" "$SKILL_MD"
   echo "✅ 已同步更新技能包 SKILL.md 的 KB_BASE_URL"
