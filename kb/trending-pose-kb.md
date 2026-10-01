@@ -233,4 +233,4 @@
   4. **[⭐] 补光灯放手机正后方偏上**（抖音）—— 补全夜间真人出镜布光细节（区别于已收录的 A4 纸/纸巾柔光），给具体灯位。
   5. **[⭐] 室内站窗边脸朝自然光来侧**（微博）—— 明确室内光位「脸转向来光侧、侧光显轮廓」，补齐原知识库只讲户外黄金时段的短板。
 - **备注**：本轮四平台均有实质新增，抖音贡献最大（13 条，集中在纯欲新变体 + 拍摄设备/运镜/收音参数），建议优先整合。下一步可由主指南维护者挑选整合进 `references/posing-guide.md` 第四节。
-- **推送状态**：本地提交成功（commit `557683a`，1 文件 / +60 行）。`git push` 失败：报错 `fatal: unable to access 'https://github.com/robertyang45/photo-pose-coach-data.git/': Connection timed out after 300019 milliseconds`——系沙箱环境到 GitHub 的网络连接超时（非远程未配置，远程 `origin` 已用令牌配置且 URL 正确）。本地写入结果已完整保留；作者可在网络恢复后于数据仓库目录手动执行 `git push` 完成同步。
+- **推送状态**：本地两次提交成功（commit `557683a` +60 行；`32e4098` +1 行日志修正）。首次 `git push` 因沙箱→GitHub 网络超时失败（`Connection timed out after 300019 ms`），重试推送成功：`To https://github.com/robertyang45/photo-pose-coach-data.git  c8aa478..32e4098  main -> main`。远端已同步，所有用户次日即可读到本轮新增内容。
