@@ -1161,4 +1161,4 @@
   2. **[⭐] 道具降维·水晶球颠倒世界**（旅荐网/小红书）—— 水晶球 30 元把地标捧手心，微观世界趣味构图，补「创意道具」维度。
   3. **[⭐] 色彩对比·红墙前穿白衣**（旅荐网/小红书）—— 强色彩对比让主体跳脱，补「主题突出」构图维度，简单可记。
 - **备注**：知识库累计约 264 条（255+9）。本轮新源集中于「低成本道具构图（天空之镜/水晶球/偏振镜）/ 对比构图（色彩/明暗/动静）/ 景点避人策略（时间差/空间错位）/ 微距特写」此前相对薄弱或缺失的维度；仍只更新「待学习」区与日志，未改主指南 posing-guide.md；建议主指南维护者把本轮 3 条 ⭐ 与历史 ⭐ 一并整合进 `references/posing-guide.md` 第四节。
-- **推送状态**：待执行 `git add / commit / push`；若因沙箱→GitHub 网络问题失败，日志注明并保留本地结果，作者可手动 `git push`（若此前从未配置过远程/令牌，请先运行 `pose-coach-data/push_init.sh`）。
+- **推送状态**：本地提交成功（commit `83abe67`，1 文件 / +38 行）；`git push` 两次失败（首次 `Recv failure: Connection was reset`，重试 `Could not connect to server github.com:443 (timeout)`），系沙箱→GitHub 网络重置/阻断，非远程未配置（远程 `origin` 为 `github.com/robertyang45/photo-pose-coach-data.git`，此前已用令牌配置、10-01~10-30 多轮均推送成功）。本地写入结果已完整保留；作者可网络恢复后于数据仓库目录手动 `git push` 同步（若此前从未配置过远程/令牌，才需先运行 `pose-coach-data/push_init.sh`）。
