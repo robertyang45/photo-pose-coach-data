@@ -1744,4 +1744,4 @@
 - **结论**：本轮无新增套路，未强行编造；知识库经 53 轮累计约 277 条后四平台主流招式高度覆盖，符合趋于完备预期（继 11-19 后又一轮「0 新增」日）。
 - **推荐优先整合进主指南的有**：本轮无新增，无。
 - **备注**：本轮 6 组关键词返回的源文与前两日高度一致，均为已收录大类复述；仍只更新「待学习」区与日志，未改主指南 posing-guide.md；建议主指南维护者着手把此前各轮累计约 60+ 条 ⭐ 推荐整合进 `references/posing-guide.md` 第四节。
-- **推送状态**：本地两次提交成功（commit `71303aa` +30 行含 11-20 待学习区与日志；`1f8c2d4` 回填推送状态）；`git push` 两次失败（`Empty reply from server` / `Could not connect to server` github.com:443，21s 超时），系沙箱→GitHub 网络重置/阻断，非远程未配置（远程 `origin` 为 `github.com/robertyang45/photo-pose-coach-data.git`，此前已用令牌配置、10-01~11-19 多轮曾推送成功）。**本次并非「作者未运行 push_init.sh」所致——远程已配置，仅当前网络不可达**。本地写入结果已完整保留；作者可网络恢复后于数据仓库目录手动 `git push` 同步（将一并推送 11-20 累积的本地提交）。
+- **推送状态**：本地两次提交成功（commit `71303aa` +30 行含 11-20 待学习区与日志；`c813be8` 回填推送状态）；`git push` 两次失败（`Empty reply from server` / `Could not connect to server` github.com:443，21s 超时），系沙箱→GitHub 网络重置/阻断，非远程未配置（远程 `origin` 为 `github.com/robertyang45/photo-pose-coach-data.git`，此前已用令牌配置、10-01~11-19 多轮曾推送成功）。**本次并非「作者未运行 push_init.sh」所致——远程已配置，仅当前网络不可达**。本地写入结果已完整保留；作者可网络恢复后于数据仓库目录手动 `git push` 同步（将一并推送 11-20 累积的本地提交）。
